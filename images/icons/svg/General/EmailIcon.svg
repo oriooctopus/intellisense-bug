@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Icons/Full Set/General/EmailIcon</title>
-    <g id="Icons/Full-Set/General/EmailIcon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M19,5 L5,5 C3.8954305,5 3,5.78350169 3,6.75 L3,17.25 C3,18.2164983 3.8954305,19 5,19 L19,19 C20.1045695,19 21,18.2164983 21,17.25 L21,6.75 C21,5.78350169 20.1045695,5 19,5 Z M17.44,7 L12,11.7028312 L6.56,7 L17.44,7 Z M5,16.9253374 L5,8.31 L12,14.2539358 L19,8.31 L19,16.9253374 L5,16.9253374 Z" id="Shape" fill="#273637"></path>
-    </g>
-</svg>

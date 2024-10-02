@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-      <path d="M21 2H8.3c-.6 0-1 .4-1 1v4.3H3c-.6 0-1 .4-1 1V21c0 .6.4 1 1 1h12.7c.6 0 1-.4 1-1v-4.3H21c.6 0 1-.4 1-1V3c0-.6-.4-1-1-1zm-1 12.7h-4.3c-.6 0-1 .4-1 1V20H4V9.3h4.3c.6 0 1-.4 1-1V4H20v10.7z" fill="#273637" />
-      <path d="M5.6 12v5.2c0 .6.4 1 1 1h5.2c.6 0 1-.4 1-1V13H17c.6 0 1-.4 1-1V6.8c0-.6-.4-1-1-1h-5.2c-.6 0-1 .4-1 1V11H6.6c-.6 0-1 .4-1 1zm7.2-4.2H16V11h-3.2V7.8zM7.6 13h3.2v3.2H7.6V13z" fill="#273637" />
-    </g>
-</svg>
