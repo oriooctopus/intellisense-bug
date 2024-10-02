@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/RyanCavanaugh/project-references-demo#readme",
   "dependencies": {
-    "@emotion/react": "^11.13.3",
-    "typescript": "^3.5.3"
+    "@emotion/react": "^11.11.3",
+    "typescript": "^5.1.3"
   }
 }

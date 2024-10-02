@@ -2,9 +2,11 @@
   "extends": "../tsconfig-base.json",
   "compilerOptions": {
     "outDir": "../lib/animals",
-    "rootDir": ".",
+    "rootDir": "."
   },
-  "references": [
-    { "path": "../core" }
-  ]
+  "include": [
+    "src/**/*",
+    "images/**/*.json"
+  ],
+  "references": []
 }
