@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Full Set/Arrow/DecreaseIcon</title>
+    <g id="Icons/Full-Set/Arrow/DecreaseIcon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        <path d="M18.7928932,8 L5.20710678,8 C4.93096441,8 4.70710678,8.22385763 4.70710678,8.5 C4.70710678,8.63260824 4.7597852,8.7597852 4.85355339,8.85355339 L11.2928932,15.2928932 C11.6834175,15.6834175 12.3165825,15.6834175 12.7071068,15.2928932 L19.1464466,8.85355339 C19.3417088,8.65829124 19.3417088,8.34170876 19.1464466,8.14644661 C19.0526784,8.05267842 18.9255015,8 18.7928932,8 Z" id="Path" fill="#273637"></path>
+    </g>
+</svg>
